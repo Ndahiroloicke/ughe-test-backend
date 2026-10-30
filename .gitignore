@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+staticfiles/
+media/
+*.sqlite3
+.DS_Store
+config.bat
+node_modules
